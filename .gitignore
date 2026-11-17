@@ -7,3 +7,8 @@ backend/campuskart.db
 *.pyc
 .env
 .DS_Store
+
+.venv/
+.env.*
+*.sqlite
+*.sqlite3
